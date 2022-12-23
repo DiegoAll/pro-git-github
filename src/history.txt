@@ -1,3 +1,6 @@
- Esta es la historia de Diego 
- Diego tiene 32 aos y naci   en Colombia. 
- Hoy hablaremos de su historia.
+Esta es la historia de Diego
+
+Diego tiene 32.5 años y nací en Colombia,
+viviendo en mi mente.
+
+Hoy hablaremos de su historia.
