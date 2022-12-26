@@ -4,3 +4,7 @@ Diego tiene 32.5 años y nací en Colombia,
 viviendo en mi mente.
 
 Hoy hablaremos de su historia.
+
+En camara parece alto y realmente lo es.
+
+Hoy es CS Engineer en Mercado Libre.
