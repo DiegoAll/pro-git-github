@@ -11,6 +11,49 @@
 |1.Generic  |Generic      |<ul><li>- [ ] New reference</li><li>- [ ] New reference</li><li>- [ ] New reference</li><li>- [ ] New reference</li></ul>     |
 
 
+master a main
+
+18.Cambios en GitHub: de master a main
+
+https://platzi.com/blog/cambios-en-github-master-main/
+
+
+
+
+
+COmandos de git basicos guia completa
+
+https://www.hostinger.mx/tutoriales/comandos-de-git
+
+
+
+https://platzi.com/blog/flujo-de-trabajo-y-comandos-oscuros-de-git/
+
+
+
+branch 
+https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+
+brew install git-flow
+
+$ brew install git-flow-avh
+
+https://danielkummer.github.io/git-flow-cheatsheet/
+
+
+bienvenida a Learn Git Branching!
+https://learngitbranching.js.org/?locale=es_AR
+
+
+
+
+Repositorio de Fredy del curso
+
+https://github.com/freddier/hyperblog/blob/master/blogpost.html
+
+
+
 
 
 
@@ -19,6 +62,21 @@ https://github.com/LazoCoder/Pokemon-Terminal
 
 
 
+- ahondar sobre el HEAD
 
+- menu VScode , source control (estan todas las opciones) Rebase, fetch, tags entre otros).
+
+- huerfanos para el cheatsheet (https://github.com/DiegoAll/knowledgeRepo/blob/main/SOFTWARE_DEVELOPMENT/GIT/git_cheatsheet.md)
+
+git config --list --show-origin  muestra la ubicacion de los archivos de configuracion.
+
+
+
+
+Cambiar o remover phassphrase from ssh key
+
+https://www.simplified.guide/ssh/set-remove-passphrase
+
+unalias nombre-del-alias
 
 
